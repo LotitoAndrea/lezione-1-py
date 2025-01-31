@@ -1,0 +1,5 @@
+print("Ciao, inserisci il tuo nome...")
+nome = input()
+print("inserisci anche il tuo colore preferito...")
+colore = input()
+print("Ciao! Mi chiamo", nome, "e il mio colore preferito è il", colore)
